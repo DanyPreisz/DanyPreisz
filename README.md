@@ -66,15 +66,15 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenia1984&show_icons=true&locale=en&layout=compact" alt="eugenia1984" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanyPreisz&show_icons=true&locale=en&layout=compact" alt="eugenia1984" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eugenia1984&show_icons=true&locale=en" alt="eugenia1984" style="margin-left: 50px;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DanyPreisz&show_icons=true&locale=en" alt="eugenia1984" style="margin-left: 50px;"/></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eugenia1984&" alt="eugenia1984" style="margin-left: 50px;"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanyPreisz&" alt="eugenia1984" style="margin-left: 50px;"/></p>
 
 ---
 
-- ⚡ Fun fact : I love cooking, pilates, cycling and reading.
+- ⚡ Fun fact : I love fútbol, movies, series and reading.
 
 ---
