@@ -2,13 +2,14 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- I'm currently studying in UTN, University Technician in Programming, **React** and **UX/UI Design** with Codo a Codo. In 2022, I studied <strong>Full Stack: React & Node.js</strong> in <i>Numen Academy</i>, <strong>Full Stack: JavaScript & Node.js</strong> with <i>Codo a Codo</i>. In 2021, I studied  🌱  <strong> Full Stack </strong> with <strong> Java </strong> in <i>Egg</i> , <i>Silicon Misiones</i> and <i>Codo a Codo</i> and I was working as a <strong> Java Back End Developer </strong> for 5 months, but since 2022 I'm back with <img src="https://img.icons8.com/clouds/24/000000/like--v1.png"/> ... <strong>#JavaScript</strong>.
+- I'm currently studying .
 
-- 🔭 I’m working on **Softtek** as a <strong>Front End Developer</strong> with **React**, **TypeScript** and **MaterialUI**.
+- I’m working .
 
-- 👨‍💻 All of my projects are available at [https://github.com/eugenia1984/Portafolio](https://github.com/eugenia1984/Portafolio)
+- 👨‍💻 All of my projects are available at [https://fullstackdevelopment.tk/](https://fullstackdevelopment.tk/)
 
-- 📫 How to reach me by: e-mail: <a href="mailto:costamariaeugenia1">costamariaeugenia1@gmail.com </a> or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maríaeugeniacosta" height="25" width="25" /> at <a href="https://linkedin.com/in/maríaeugeniacosta" target="blank"> maríaeugeniacosta </a>.</p>
+- 📫 How to reach me by: [https://fullstackdevelopment.tk/](https://fullstackdevelopment.tk/)
+ or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="25" width="25" /> at <a href="[https://www.linkedin.com/in/daniel-preisz-011962163/](https://www.linkedin.com/in/daniel-preisz-011962163/)" target="blank"> daniel-preisz </a>.</p>
 
 ---
 
