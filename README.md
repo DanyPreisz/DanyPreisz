@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- I'm currently studying .
+- I'm currently studying.
 
-- I’m working .
+- I’m working.
 
-- 👨‍💻 All of my projects are available at [https://fullstackdevelopment.tk](https://fullstackdevelopment.tk)
+- 👨‍💻 All of my projects are available at <a href="https://fullstackdevelopment.tk" target="blank">fullstackdevelopment.tk</a>
 
 - 📫 How to reach me by: [https://fullstackdevelopment.tk](https://fullstackdevelopment.tk)
  or  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="25" width="25" /> at <a href="https://www.linkedin.com/in/daniel-preisz-011962163" target="blank"> daniel-preisz </a>.</p>
